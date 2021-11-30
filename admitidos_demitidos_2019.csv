@@ -1,0 +1,190 @@
+UF,Grau Instrucao,Admitidos,Desligados,Total
+ Rondonia,Total,4169,3603,7772
+ Rondonia,Analfabeto,22,26,48
+ Rondonia,Fundamental Completo,391,267,658
+ Rondonia,Médio Incompleto,510,447,957
+ Rondonia,Médio Completo,2728,2421,5149
+ Rondonia,Superior Incompleto,149,137,286
+ Rondonia,Superior Completo,369,305,674
+ Acre,Total,3689,3306,6995
+ Acre,Analfabeto,14,26,40
+ Acre,Fundamental Completo,226,176,402
+ Acre,Médio Incompleto,170,161,331
+ Acre,Médio Completo,3050,2561,5611
+ Acre,Superior Incompleto,60,105,165
+ Acre,Superior Completo,169,277,446
+ Amazonas,Total,15874,14391,30265
+ Amazonas,Analfabeto,62,33,95
+ Amazonas,Fundamental Completo,1178,1102,2280
+ Amazonas,Médio Incompleto,947,1050,1997
+ Amazonas,Médio Completo,11563,10375,21938
+ Amazonas,Superior Incompleto,637,547,1184
+ Amazonas,Superior Completo,1487,1284,2771
+ Roraima,Total,3192,2759,5951
+ Roraima,Analfabeto,42,33,75
+ Roraima,Fundamental Completo,366,326,692
+ Roraima,Médio Incompleto,153,113,266
+ Roraima,Médio Completo,2326,2026,4352
+ Roraima,Superior Incompleto,62,65,127
+ Roraima,Superior Completo,243,196,439
+ Para,Total,11888,10119,22007
+ Para,Analfabeto,104,143,247
+ Para,Fundamental Completo,1724,1561,3285
+ Para,Médio Incompleto,1133,1020,2153
+ Para,Médio Completo,7617,6343,13960
+ Para,Superior Incompleto,310,261,571
+ Para,Superior Completo,1000,791,1791
+ Amapa,Total,2603,2672,5275
+ Amapa,Analfabeto,7,4,11
+ Amapa,Fundamental Completo,134,267,401
+ Amapa,Médio Incompleto,194,183,377
+ Amapa,Médio Completo,1948,1938,3886
+ Amapa,Superior Incompleto,56,85,141
+ Amapa,Superior Completo,264,195,459
+ Tocantins,Total,5253,3668,8921
+ Tocantins,Analfabeto,30,27,57
+ Tocantins,Fundamental Completo,275,207,482
+ Tocantins,Médio Incompleto,365,270,635
+ Tocantins,Médio Completo,4063,2832,6895
+ Tocantins,Superior Incompleto,183,95,278
+ Tocantins,Superior Completo,337,237,574
+ Maranhao,Total,10183,9271,19454
+ Maranhao,Analfabeto,181,211,392
+ Maranhao,Fundamental Completo,1043,957,2000
+ Maranhao,Médio Incompleto,380,403,783
+ Maranhao,Médio Completo,7406,6691,14097
+ Maranhao,Superior Incompleto,295,186,481
+ Maranhao,Superior Completo,878,823,1701
+ Piaui,Total,5077,3701,8778
+ Piaui,Analfabeto,59,41,100
+ Piaui,Fundamental Completo,755,520,1275
+ Piaui,Médio Incompleto,462,402,864
+ Piaui,Médio Completo,3124,2287,5411
+ Piaui,Superior Incompleto,152,124,276
+ Piaui,Superior Completo,525,327,852
+ Ceara,Total,12729,12139,24868
+ Ceara,Analfabeto,90,82,172
+ Ceara,Fundamental Completo,1270,1217,2487
+ Ceara,Médio Incompleto,655,843,1498
+ Ceara,Médio Completo,8843,8290,17133
+ Ceara,Superior Incompleto,458,415,873
+ Ceara,Superior Completo,1413,1292,2705
+ Rio Grande do Norte,Total,4416,3809,8225
+ Rio Grande do Norte,Analfabeto,38,38,76
+ Rio Grande do Norte,Fundamental Completo,501,322,823
+ Rio Grande do Norte,Médio Incompleto,350,299,649
+ Rio Grande do Norte,Médio Completo,2953,2656,5609
+ Rio Grande do Norte,Superior Incompleto,126,120,246
+ Rio Grande do Norte,Superior Completo,448,374,822
+ Paraiba,Total,4628,3136,7764
+ Paraiba,Analfabeto,82,50,132
+ Paraiba,Fundamental Completo,277,355,632
+ Paraiba,Médio Incompleto,223,309,532
+ Paraiba,Médio Completo,2968,1964,4932
+ Paraiba,Superior Incompleto,190,112,302
+ Paraiba,Superior Completo,888,346,1234
+ Pernambuco,Total,18877,16323,35200
+ Pernambuco,Analfabeto,240,268,508
+ Pernambuco,Fundamental Completo,1634,1467,3101
+ Pernambuco,Médio Incompleto,1306,1210,2516
+ Pernambuco,Médio Completo,13002,11180,24182
+ Pernambuco,Superior Incompleto,668,523,1191
+ Pernambuco,Superior Completo,2027,1675,3702
+ Alagoas,Total,6564,5885,12449
+ Alagoas,Analfabeto,181,303,484
+ Alagoas,Fundamental Completo,788,782,1570
+ Alagoas,Médio Incompleto,511,438,949
+ Alagoas,Médio Completo,4349,3720,8069
+ Alagoas,Superior Incompleto,179,178,357
+ Alagoas,Superior Completo,556,464,1020
+ Sergipe,Total,3465,2815,6280
+ Sergipe,Analfabeto,56,23,79
+ Sergipe,Fundamental Completo,309,260,569
+ Sergipe,Médio Incompleto,291,284,575
+ Sergipe,Médio Completo,2419,1876,4295
+ Sergipe,Superior Incompleto,93,80,173
+ Sergipe,Superior Completo,297,292,589
+ Bahia,Total,31578,23050,54628
+ Bahia,Analfabeto,244,158,402
+ Bahia,Fundamental Completo,1788,1484,3272
+ Bahia,Médio Incompleto,1974,1604,3578
+ Bahia,Médio Completo,24246,17148,41394
+ Bahia,Superior Incompleto,724,552,1276
+ Bahia,Superior Completo,2602,2104,4706
+ Minas Gerais,Total,42076,35986,78062
+ Minas Gerais,Analfabeto,309,273,582
+ Minas Gerais,Fundamental Completo,5656,5077,10733
+ Minas Gerais,Médio Incompleto,4542,3747,8289
+ Minas Gerais,Médio Completo,26749,22836,49585
+ Minas Gerais,Superior Incompleto,1458,1082,2540
+ Minas Gerais,Superior Completo,3362,2971,6333
+ Espirito Santo,Total,9101,6607,15708
+ Espirito Santo,Analfabeto,63,22,85
+ Espirito Santo,Fundamental Completo,1075,928,2003
+ Espirito Santo,Médio Incompleto,1010,672,1682
+ Espirito Santo,Médio Completo,5879,4059,9938
+ Espirito Santo,Superior Incompleto,271,190,461
+ Espirito Santo,Superior Completo,803,736,1539
+ Rio de Janeiro,Total,43195,37961,81156
+ Rio de Janeiro,Analfabeto,192,146,338
+ Rio de Janeiro,Fundamental Completo,5198,4758,9956
+ Rio de Janeiro,Médio Incompleto,3712,3121,6833
+ Rio de Janeiro,Médio Completo,27362,22594,49956
+ Rio de Janeiro,Superior Incompleto,1491,1311,2802
+ Rio de Janeiro,Superior Completo,5240,6031,11271
+ Sao Paulo,Total,136456,116676,253132
+ Sao Paulo,Analfabeto,467,318,785
+ Sao Paulo,Fundamental Completo,12505,12827,25332
+ Sao Paulo,Médio Incompleto,10046,9099,19145
+ Sao Paulo,Médio Completo,93230,76897,170127
+ Sao Paulo,Superior Incompleto,4588,3799,8387
+ Sao Paulo,Superior Completo,15620,13736,29356
+ Parana,Total,26348,22568,48916
+ Parana,Analfabeto,108,76,184
+ Parana,Fundamental Completo,3033,2619,5652
+ Parana,Médio Incompleto,2605,2428,5033
+ Parana,Médio Completo,17322,14576,31898
+ Parana,Superior Incompleto,1046,913,1959
+ Parana,Superior Completo,2234,1956,4190
+ Santa Catarina,Total,17454,15205,32659
+ Santa Catarina,Analfabeto,93,98,191
+ Santa Catarina,Fundamental Completo,1700,1626,3326
+ Santa Catarina,Médio Incompleto,1523,1395,2918
+ Santa Catarina,Médio Completo,11055,9451,20506
+ Santa Catarina,Superior Incompleto,936,806,1742
+ Santa Catarina,Superior Completo,2147,1829,3976
+ Rio Grande do Sul,Total,18510,16087,34597
+ Rio Grande do Sul,Analfabeto,51,44,95
+ Rio Grande do Sul,Fundamental Completo,2346,1911,4257
+ Rio Grande do Sul,Médio Incompleto,1737,1420,3157
+ Rio Grande do Sul,Médio Completo,12018,10622,22640
+ Rio Grande do Sul,Superior Incompleto,874,842,1716
+ Rio Grande do Sul,Superior Completo,1484,1248,2732
+ Mato Grosso do Sul,Total,11640,10595,22235
+ Mato Grosso do Sul,Analfabeto,47,64,111
+ Mato Grosso do Sul,Fundamental Completo,1169,1363,2532
+ Mato Grosso do Sul,Médio Incompleto,1429,1123,2552
+ Mato Grosso do Sul,Médio Completo,7863,7103,14966
+ Mato Grosso do Sul,Superior Incompleto,360,301,661
+ Mato Grosso do Sul,Superior Completo,772,641,1413
+ Mato Grosso,Total,13563,11814,25377
+ Mato Grosso,Analfabeto,97,93,190
+ Mato Grosso,Fundamental Completo,1287,1232,2519
+ Mato Grosso,Médio Incompleto,1602,1497,3099
+ Mato Grosso,Médio Completo,9166,7820,16986
+ Mato Grosso,Superior Incompleto,404,397,801
+ Mato Grosso,Superior Completo,1007,775,1782
+ Goias,Total,24981,19425,44406
+ Goias,Analfabeto,181,138,319
+ Goias,Fundamental Completo,3315,1996,5311
+ Goias,Médio Incompleto,2450,1892,4342
+ Goias,Médio Completo,16593,13525,30118
+ Goias,Superior Incompleto,747,524,1271
+ Goias,Superior Completo,1695,1350,3045
+ Distrito Federal,Total,21741,16105,37846
+ Distrito Federal,Analfabeto,70,41,111
+ Distrito Federal,Fundamental Completo,1820,1498,3318
+ Distrito Federal,Médio Incompleto,1571,1282,2853
+ Distrito Federal,Médio Completo,14605,10673,25278
+ Distrito Federal,Superior Incompleto,1013,709,1722
+ Distrito Federal,Superior Completo,2662,1902,4564
